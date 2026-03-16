@@ -1,2 +1,1 @@
-Project write-up:
-Modeling Pursuit-Evasion Games with Numerical Simulation of Stochastic Differential Equations.pdf
+[Modeling Pursuit-Evasion Games with Numerical Simulation of Stochastic Differential Equations.pdf](https://github.com/senchromatic/numerical-sdes-pursuit-evasion/blob/main/Modeling%20Pursuit-Evasion%20Games%20with%20Numerical%20Simulation%20of%20Stochastic%20Differential%20Equations.pdf)
